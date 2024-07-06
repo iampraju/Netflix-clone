@@ -210,7 +210,7 @@ Add the `@tailwind` directives for each of Tailwind’s layers to your `./styles
 
 Install dependencies
 
-<a href="https://github.com/SashenJayathilaka/NETFLIX-Clone/blob/master/package.json" target="_blank">🔶 Other Dependency Info</a>
+<a href="" target="_blank">🔶 Other Dependency Info</a>
 
 <!-- Run Locally -->
 
@@ -270,7 +270,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## :handshake: Contact
 
-Your Name - [@twitter_handle](https://twitter.com/SashenHasinduJ) - sashenjayathilaka95@gmail.com
+Your Name - [LinkedIn ](https://www.linkedin.com/in/prajkta-gadpayle-402726211) - prajktagadpayle2001@gmail.com 
 
 Project Link: [https://github.com/SashenJayathilaka/NETFLIX-Clone.git](https://github.com/SashenJayathilaka/NETFLIX-Clone.git)
 

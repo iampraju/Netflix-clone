@@ -12,10 +12,6 @@ NETFLIX 2.0 with NEXT.JS!(Next.js, NextAuth.js v4, Tailwind CSS, framer-motion, 
 
 <a href="https://netflix-sclone.netlify.app" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
 ![](https://img.shields.io/badge/Maintained-Yes-indigo)
-![](https://img.shields.io/github/forks/SashenJayathilaka/NETFLIX-Clone.svg)
-![](https://img.shields.io/github/stars/SashenJayathilaka/NETFLIX-Clone.svg)
-![](https://img.shields.io/github/issues/SashenJayathilaka/NETFLIX-Clone)
-![](https://img.shields.io/github/last-commit/SashenJayathilaka/NETFLIX-Clone)
 
 <h4>
     <a href="https://netflix-sclone.netlify.app">View Demo</a>

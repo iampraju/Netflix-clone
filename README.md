@@ -20,11 +20,11 @@ NETFLIX 2.0 with NEXT.JS!(Next.js, NextAuth.js v4, Tailwind CSS, framer-motion, 
 <h4>
     <a href="https://netflix-sclone.netlify.app">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/NETFLIX-Clone/blob/master/README.md">Documentation</a>
+    <a href="https://github.com/iampraju/Netflix-clone/blob/main/README.md">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/NETFLIX-Clone/issues">Report Bug</a>
+    <a href="https://github.com/iampraju/Netflix-clone/issues">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/NETFLIX-Clone/issues">Request Feature</a>
+    <a href="https://github.com/iampraju/Netflix-clone/issues">Request Feature</a>
   </h4>
 </div>
 
@@ -210,7 +210,7 @@ Add the `@tailwind` directives for each of Tailwind’s layers to your `./styles
 
 Install dependencies
 
-<a href="" target="_blank">🔶 Other Dependency Info</a>
+<a href="https://github.com/iampraju/Netflix-clone/blob/main/NETFLIX-Clone-master/package.json" target="_blank">🔶 Other Dependency Info</a>
 
 <!-- Run Locally -->
 
@@ -219,7 +219,7 @@ Install dependencies
 Clone the project
 
 ```bash
- [ git clone https://github.com/iampraju/Netflix-clone/tree/main/NETFLIX-Clone-master]
+  git clone https://github.com/iampraju/Netflix-clone/tree/main/NETFLIX-Clone-master
 ```
 
 ```bash
@@ -270,9 +270,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## :handshake: Contact
 
-Your Name - [LinkedIn ](https://www.linkedin.com/in/prajkta-gadpayle-402726211) - prajktagadpayle2001@gmail.com 
+Your Name - [prajkta]- prajktagadpayle73@gmail.com
 
-Project Link: git bash[https://github.com/iampraju/Netflix-clone/tree/main/NETFLIX-Clone-master]
+Project Link: [https://github.com/iampraju/Netflix-clone/tree/main/NETFLIX-Clone-master]
+
 <hr />
 <br />
 

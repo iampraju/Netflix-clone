@@ -272,7 +272,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 Your Name - [LinkedIn ](https://www.linkedin.com/in/prajkta-gadpayle-402726211) - prajktagadpayle2001@gmail.com 
 
-Project Link: [https://github.com/iampraju/Netflix-clone/tree/main/NETFLIX-Clone-master]
+Project Link: git bash[https://github.com/iampraju/Netflix-clone/tree/main/NETFLIX-Clone-master]
 <hr />
 <br />
 

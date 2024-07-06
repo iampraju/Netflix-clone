@@ -50,10 +50,11 @@ NETFLIX 2.0 with NEXT.JS!(Next.js, NextAuth.js v4, Tailwind CSS, framer-motion, 
 ### :camera: Screenshots
 
 <div align="center">
-<a href="https://netflix-sclone.netlify.app" target="_blank"><img  src='./demo/ezgif-1-2a6c90cdd6.gif' alt='image'/></a>
+<a href="https://netflix-sclone.netlify.app" target="_blank"><img  src='![ezgif-1-2a6c90cdd6](https://github.com/iampraju/Netflix-clone/assets/72386069/770cf630-8fbe-40b6-a2c6-cbd709ce6b54)
+' alt='image'/></a>
 </div>
 
-## <a href="https://netflix-sclone.netlify.app" target="_blank">LIVE DEMO 💥</a>
+## <a href=""_blank">LIVE DEMO 💥</a>
 
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 ![forthebadge](https://forthebadge.com/images/badges/for-you.svg)

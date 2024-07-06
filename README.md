@@ -219,7 +219,7 @@ Install dependencies
 Clone the project
 
 ```bash
-  git clone https://github.com/SashenJayathilaka/NETFLIX-Clone.git
+ [ git clone https://github.com/iampraju/Netflix-clone/tree/main/NETFLIX-Clone-master]
 ```
 
 ```bash
